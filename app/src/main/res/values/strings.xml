@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">weibo</string>
+    <string name="tv_show">第二个页面</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="rbtn_name">推荐</string>
+    <string name="rbtn2_name">最新</string>
+    <string name="tab_home">首页</string>
+    <string name="tab_message">消息</string>
+    <string name="tab_user">我的</string>
+    <string name="bt_guide">进入体验</string>
+</resources>
